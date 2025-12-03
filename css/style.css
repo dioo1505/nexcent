@@ -19,3 +19,23 @@ header{
   align-items: center;
   justify-content: space-between;
 }
+/* zaynabxon412 */
+.books_1{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.books {
+text-align: center;
+}
+
+.books_2 {
+  width: 120px;
+  height: 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background: green;
+  border-radius:3px ;
+}
+/* end */
