@@ -19,3 +19,9 @@ header{
   align-items: center;
   justify-content: space-between;
 }
+
+.divayub1{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
