@@ -20,6 +20,65 @@ header {
   justify-content: space-between;
 }
 
+/* Abdulbosit */
+.hero2-text {
+  text-align: center;
+  font-family: sans-serif
+}
+
+.hero2-text h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #4D4D4D;
+  margin-bottom: 16px;
+}
+
+.hero2-text p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #717171;
+  line-height: 28px;
+}
+
+.hero2-images {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.hero2 {
+  text-align: center;
+  font-family: sans-serif
+}
+
+.hero2-image h2 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #4D4D4D;
+  margin: 16px 0;
+}
+
+.hero2-image p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #717171;
+  line-height: 28px;
+}
+
+.hero2-image img {
+  width: 80px;
+  height: 80px;
+}
+
+.hero2-image {
+  width: 20%;
+  height: 300px;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* End of Abdulbosit */
 .divayub1{
   display: flex;
   justify-content: space-around;
