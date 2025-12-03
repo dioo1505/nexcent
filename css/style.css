@@ -20,6 +20,11 @@ header {
   justify-content: space-between;
 }
 
+.divayub1{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
 /* Muhammadsodiq's page start */
 main {
   display: flex;
