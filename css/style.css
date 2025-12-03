@@ -19,3 +19,17 @@ header{
   align-items: center;
   justify-content: space-between;
 }
+
+/* akbarshox */
+.akbarshox{
+  text-align: center;
+  padding: auto;
+  background-color: gray;
+}
+.akbarshoximgs{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
