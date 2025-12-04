@@ -76,3 +76,139 @@ header {
 }
 
 /* Abdulazizbbee_701 end */
+/* zaynabxon412 */
+.books_1{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.books {
+text-align: center;
+}
+
+.books_2 {
+  width: 120px;
+  height: 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background: green;
+  border-radius:3px ;
+}
+/* end */
+
+/* akbarshox */
+.akbarshox{
+  text-align: center;
+  padding: auto;
+  background-color: gray;
+}
+.akbarshoximgs{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+/* Abdulbosit */
+.hero2-text {
+  text-align: center;
+  font-family: sans-serif
+}
+
+.hero2-text h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #4D4D4D;
+  margin-bottom: 16px;
+}
+
+.hero2-text p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #717171;
+  line-height: 28px;
+}
+
+.hero2-images {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.hero2 {
+  text-align: center;
+  font-family: sans-serif
+}
+
+.hero2-image h2 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #4D4D4D;
+  margin: 16px 0;
+}
+
+.hero2-image p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #717171;
+  line-height: 28px;
+}
+
+.hero2-image img {
+  width: 80px;
+  height: 80px;
+}
+
+.hero2-image {
+  width: 20%;
+  height: 300px;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* End of Abdulbosit */
+.divayub1{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+/* Muhammadsodiq's page start */
+main {
+  display: flex;
+  margin-top: 50px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 100px;
+}
+
+.main__text-title {
+  font-weight: 700;
+  font-size: 50px;
+  color: rgb(86, 85, 85);
+}
+
+.main__text-title-span {
+  color: #4caf4f;
+}
+.main__text-title-p {
+  color: grey;
+  font-weight: 500;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.main__text-btn {
+  padding: 10px 50px;
+  border: none;
+  background-color: #4caf4f;
+  color: #fff;
+  font-weight: 400;
+  font-size: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+/* Muhammadsodiq's page end */
